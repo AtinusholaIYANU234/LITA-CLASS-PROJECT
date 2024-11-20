@@ -7,7 +7,7 @@ This project aims to analyse HR data to provide insights into employee demograph
 
 ### Data Sources
 The primary data source for this project is the HR excel format, which includes information on employee demographics, job role, gender, marital status, educational level, e.t.c. was provided in class by Mr Temidayo Ayeni from The Incubator Hub. The data was cleaned and preprocessed to handle missing values.
-### Analysis Methods
+### Analysis Method
 - Power BI
   - For Visualization
   
