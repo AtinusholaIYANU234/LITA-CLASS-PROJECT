@@ -27,3 +27,8 @@ EDA was performed to understand the disrtibution of key variables. Statistical a
   
 ### Visualization
 The dashboard was created in Power BI, which visualizes key metrics such as age band, attrition count by age group and gender, educational field, department.
+![CLASS PROJECT DASHBOARD 1](https://github.com/user-attachments/assets/41a90148-59a8-476d-875d-36eeb860418f)
+
+![CLASS PROJECT DASHBOARD 2](https://github.com/user-attachments/assets/c1fbfbe5-5df4-4fb9-ada2-26cb2c0a5375)
+
+
