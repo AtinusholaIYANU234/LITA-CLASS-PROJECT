@@ -26,6 +26,7 @@ EDA was performed to understand the disrtibution of key variables. Statistical a
 - The highest attrition count is between the ages of 25-34
   
 ### Visualization
+
 The dashboard was created in Power BI, which visualizes key metrics such as age band, attrition count by age group and gender, educational field, department.
 ![CLASS PROJECT DASHBOARD 1](https://github.com/user-attachments/assets/41a90148-59a8-476d-875d-36eeb860418f)
 
